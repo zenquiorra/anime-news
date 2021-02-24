@@ -24,6 +24,6 @@ The `news.py` file scrapes websites and returns a 'list of dictionaries' object 
   > We make the assumption that the sha256 algorithm will not likely give a collision, given the size of output is small.
   > Hashlib will likely to return the same hash value on a consistent environment.
 
-The program uses it primary source as [AnimeNewsNetwork]('https://www.animenewsnetwork.com/')
+The program uses its primary source as [AnimeNewsNetwork]('https://www.animenewsnetwork.com/')
 
 
